@@ -12,3 +12,7 @@ How to use :
 - make re for run.
 - and throw by : ./fractol "Usage fractol ("mandelbrot" "julia" "burningship" "multibrot" "tricorn" "burningjulia")"
 
+***Mandelbrot***
+
+
+<img width="1076" alt="Capture d’écran 2021-01-18 à 00 55 34" src="https://user-images.githubusercontent.com/36717755/104859893-9ba86380-5928-11eb-9247-d3491ccfb761.png">
